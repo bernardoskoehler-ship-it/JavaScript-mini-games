@@ -16,20 +16,6 @@ This repository focuses on learning by building simple interactive applications 
 
 ---
 
-## 📂 Projects
-
-### 🕷️ Spider Selector (v1)
-
-A simple interactive page where users can choose between different "Spider-Man" variations and dynamically change images.
-
-**Concepts used:**
-
-* DOM manipulation
-* Event handling (`onclick`)
-* Dynamic image updates
-
----
-
 ## 🧠 What I'm Learning
 
 * Variables and functions
